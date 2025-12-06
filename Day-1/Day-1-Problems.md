@@ -1,4 +1,5 @@
- ### Day 1: Secret Entrance
+### Day 1: Secret Entrance
+
 The Elves have good news and bad news.
 
 The good news is that they've discovered project management! This has given them the tools they need to prevent their usual Christmas emergency. For example, they now know that the North Pole decorations need to be finished soon so that other critical tasks can start on time.
@@ -86,4 +87,4 @@ Be careful: if the dial were pointing at 50, a single rotation like R1000 would 
 
 Using password method 0x434C49434B, what is the password to open the door?
 
-Answer:
+Answer: 5820
