@@ -70,3 +70,7 @@ Thumbs.db
 # Test files
 test_output/
 *.test
+
+# Compiled binaries (no extension)
+**/part1
+**/part2
