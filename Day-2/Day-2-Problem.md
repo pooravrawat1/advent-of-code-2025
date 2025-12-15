@@ -34,8 +34,6 @@ Adding up all the invalid IDs in this example produces 1227775554.
 
 What do you get if you add up all of the invalid IDs?
 
-To begin, get your puzzle input.
-
 # Answer: 24043483400
 
 ### Part Two
