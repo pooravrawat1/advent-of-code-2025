@@ -52,4 +52,4 @@ Your list contains many junction boxes; connect together the 1000 pairs of junct
 
 To begin, get your puzzle input.
 
-### Answer:
+### Answer: 54180
