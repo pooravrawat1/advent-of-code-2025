@@ -1,5 +1,5 @@
 # advent-of-code-2025
-Just me solving advent of code 2025. Mostly in C++, sometimes in python.
+Just me solving advent of code 2025. Mostly in c++, sometimes in python.
 
 https://adventofcode.com/
 
